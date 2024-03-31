@@ -98,6 +98,7 @@ class CreditsState extends MusicBeatState
 			['Cloudster',		    'cloudster',        'Cutscene Animator',                                            '',                                     'FFFFFF'],
 			['Micky777',		    'noicon',           'Artist',                                                       'https://www.youtube.com/@micky8471',   'FFFFFF'],
 			['T',		            't',                'Artist',                                                       'https://www.youtube.com/@t.r2753',     'FFFFFF'],
+			['Funni-Man',		    'funniman',		    'Artist',				                                        'https://www.youtube.com/@funni1496',   '333442'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
