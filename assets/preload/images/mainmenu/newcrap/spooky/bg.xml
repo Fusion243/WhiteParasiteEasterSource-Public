@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cutScreen0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="cutScreen0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="cutScreen0002" x="1295" y="0" width="1280" height="720"/>
+	<SubTexture name="cutScreen0003" x="1295" y="0" width="1280" height="720"/>
+	<SubTexture name="cutScreen0004" x="2590" y="0" width="1280" height="720"/>
+	<SubTexture name="cutScreen0005" x="2590" y="0" width="1280" height="720"/>
+	<SubTexture name="cutScreen0006" x="0" y="735" width="1280" height="720"/>
+	<SubTexture name="cutScreen0007" x="0" y="735" width="1280" height="720"/>
+	<SubTexture name="cutScreen0008" x="0" y="735" width="1280" height="720"/>
+	<SubTexture name="cutScreen0009" x="0" y="735" width="1280" height="720"/>
+	<SubTexture name="cutScreen0010" x="0" y="735" width="1280" height="720"/>
+	<SubTexture name="cutScreen0011" x="0" y="735" width="1280" height="720"/>
+	<SubTexture name="staticScreen0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0006" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0007" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0008" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0009" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0010" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="staticScreen0011" x="0" y="0" width="1280" height="720"/>
+</TextureAtlas>

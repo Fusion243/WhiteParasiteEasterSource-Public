@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Egghunt", "eggwhite", [207, 209, 248]],
+		["Copy Claim", "whote", [207, 209, 248]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "White Parasite Easter Demo",
+	"weekBefore": "week1",
+	"weekName": "week1",
+	"difficulties": "Normal",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
